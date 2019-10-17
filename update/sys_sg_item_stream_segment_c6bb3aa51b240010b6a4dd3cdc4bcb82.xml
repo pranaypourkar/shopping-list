@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Shopping Item Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Shopping Items">c2bb3aa51b240010b6a4dd3cdc4bcb80</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-17 13:00:53</sys_created_on>
+        <sys_id>c6bb3aa51b240010b6a4dd3cdc4bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item Item Stream Segment</sys_name>
+        <sys_package display_value="Shopping List" source="x_412072_shopping">fb28b2e11b240010b6a4dd3cdc4bcbbb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">fb28b2e11b240010b6a4dd3cdc4bcbbb</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_c6bb3aa51b240010b6a4dd3cdc4bcb82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-17 13:00:53</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>
